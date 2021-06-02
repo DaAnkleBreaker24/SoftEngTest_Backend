@@ -32,12 +32,17 @@
    }
  ```
   <p>3. Click on <strong>Authorise<strong/> button and add to as follows </p>
-     ```
+     
+  ```
   Bearer *space* GeneratedToken
-   ```
+  ```
     
     Example:
-    ```
+     
+```
     Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNjQwNjQ5Mjg1LCJpYXQiOjE2MjI2NDkyODV9.-bgZliiPrAS7jTh7M9ZnXDghwS4Qu8HmCG28nXT7Y79Ai7y_HiK5NKE5omgl6Al8VSsCY-fBYDUEPI1cDC0D1w
-    ```
+     
+```
+     
+     
     <p> Use any webservice available </p>
