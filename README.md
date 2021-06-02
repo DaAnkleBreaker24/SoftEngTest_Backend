@@ -27,10 +27,10 @@
   use below body object
  ```
    {
-  "password": "string",
-  "username": "string"
+  "password": "password",
+  "username": "user"
    }
-   ```
+ ```
   <p>3. Click on <strong>Authorise<strong/> button and add to as follows </p>
      ```
   Bearer *space* GeneratedToken
